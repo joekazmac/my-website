@@ -1,0 +1,65 @@
+#backgroundcolor{
+	background-image: url("https://s-media-cache-ak0.pinimg.com/736x/43/52/fa/4352fadc7fb8bd9cbbb979045b9bce74.jpg");
+}
+
+#headerstyles{
+	color: blue;
+	font-size: 55px;
+	text-align: center;
+}
+#header2styles{
+	color:red;
+	font-size:25px;
+}
+
+.coloring{
+	color:blue;
+	text-align: center;
+	font-size: 15px;
+}
+
+#header2styles{
+	color:green;
+	text-align: center;
+}
+
+.divstyles{
+	color: darkblue;
+	font-size: 15px;
+	text-align: center;
+
+}
+
+#h3coloring{
+	color:green;
+	text-align: center;
+}
+
+.pictures{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+}
+#styling{
+	color:green;
+	text-align: center;
+}
+.colorparagraph{
+	text-align: center;
+	font-size: 15px;
+}
+
+.pictures1{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+}
+
+#nobullets{
+	list-style-type: none;
+}
+
+.addingclass{
+	color:orange;
+	font-size: 100px;
+}
