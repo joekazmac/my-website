@@ -60,6 +60,19 @@
 }
 
 .addingclass{
-	color:orange;
-	font-size: 100px;
+	background-color:orange;
+	font-size: 200px;
+}
+
+.change {
+	margin-top: 1px;
+}
+
+.h1change {
+	margin-bottom: 1px;
+}
+
+#styling1 {
+	color:green;
+	text-align: center;
 }
